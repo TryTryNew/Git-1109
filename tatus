@@ -1,0 +1,29 @@
+[33mcommit e8df82039d8338f5af815c2a8a7970b01f8cf26a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: TryTryNew~ <312034568+TryTryNew@users.noreply.github.com>
+Date:   Mon Nov 9 11:07:46 2026 +0800
+
+    練習(amend)
+
+[33mcommit 37cbba673648af8bec90616fb6a24a87dfeab7ab[m
+Author: TryTryNew~ <312034568+TryTryNew@users.noreply.github.com>
+Date:   Mon Nov 9 11:06:31 2026 +0800
+
+    我很好
+
+[33mcommit 2a1d0ed0164bf1d39a74a6d2c2800a17416488e0[m
+Author: TryTryNew~ <312034568+TryTryNew@users.noreply.github.com>
+Date:   Mon Nov 9 11:04:44 2026 +0800
+
+    新增講師、教室、日期
+
+[33mcommit 73d091347475d76c5dedbaaf0d596c33a0e088b9[m
+Author: TryTryNew~ <312034568+TryTryNew@users.noreply.github.com>
+Date:   Mon Nov 9 10:58:43 2026 +0800
+
+    page1:課程名稱/時數/教室、css:空白檔案
+
+[33mcommit a861e295bd72ce6223d0b80c658a8d650e13846f[m
+Author: TryTryNew <312034568+TryTryNew@users.noreply.github.com>
+Date:   Mon Nov 9 10:54:08 2026 +0800
+
+    新增gitignore(忽略)page4.txt及.env、建立空白txt檔
